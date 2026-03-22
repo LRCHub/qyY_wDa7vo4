@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ひとりじゃない",
   "base_artist": "DEEN",
-  "createdAt": "2026-03-22T01:52:53.488880Z",
+  "createdAt": "2026-03-22T01:58:49.898218Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "DEEN",
       "has_synced": false,
       "path": "select/pl_01_ひとりじゃない_DEEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ひとりじゃない",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/localdb_01_ひとりじゃない_DEEN.lrc",
+      "repo_name": "qyY_wDa7vo4"
     }
   ]
 }
